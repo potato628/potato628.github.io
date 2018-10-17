@@ -1,32 +1,72 @@
-# About
+# Massively
+> This is Massively, a text-heavy, article-oriented design built around a huge background
+image.
 
-This is my blog based on jekyll. And I change the style and interactive. If you want to use this model of the blog. **Please give a star at this repository**. Then you can clone it as your blog model.
+## How to Use This Theme
+Jekyll consumes themes in two flavors; gem-based or spread across multiple folders
+in the site source. This port is of the second type. Concretely, it means that you
+can simply grab the [zip][zip] or clone this repository, run `bundle install`
+in the new directory and finally `bundle exec jekyll serve`.
+You can now access your brand-new Jekyll site on [http://127.0.0.1:4000/][local].
+Enjoy!
 
-You can visit [here](http://gaohaoyang.github.io) to see this blog.
+If you're completely new to Jekyll, check out it's [documentation][jekyll] first.
+It's not too hard, we promise!
 
----
+[zip]: https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip
+[local]: http://127.0.0.1:4000/
+[jekyll]: https://jekyllrb.com/
 
-这是我的博客，基于 jekyll。我改了所有默认的样式和交互。如果你想使用这个博客模板。**请先在这个仓库上点个star吧**，这也是对我的肯定和鼓励，谢谢了。然后你可以克隆这个仓库用作你自己的博客。
+## Features
+### Auto-Generating Sitemap
+The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
+```
+sitemap:
+    priority: 0.7
+    lastmod: 2017-11-02
+    changefreq: weekly
+```
 
-博客访问地址：[点击这里](http://gaohaoyang.github.io)
-
-**使用时请注明模板来源:  Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-
-<!--
-
-## 被引用信息
-
-使用了我的模板并写明来源的人：   
-
-* [dreamholy](http://dreamholy.github.io/)
-
-没有注明来源的人：
-
-* [yangshuailing](http://yangshuailing.github.io/com/)
-* [huapu728](http://huapu728.github.io/)
-* [greatbuger](http://greatbuger.github.io/) 
+### Formspree.io Integration
+Formspree is supported out of the box! Just add your email to ```_config.yml``` and test the form.
+You have to confirm your email address the first time you use it on each url. Alternatively,
+move the from to a dedicated page or consider a pro subscription.
 
 
--->
+## Credits
+### Original README from HTML5 UP
+```
+Massively by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
+This is Massively, a text-heavy, article-oriented design built around a huge background
+image (with a new parallax implementation I'm testing) and scroll effects (powered by
+Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
+that fulfills a few user requests and makes use of some new techniques I've been wanting
+to try out. Enjoy it :)
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		Misc. Sass functions (@HugoGiraudel)
+		Skel (skel.io)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+```
