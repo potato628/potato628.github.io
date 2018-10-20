@@ -11,7 +11,7 @@ type: page
 
 ## 常用网站
 
-* [ReadFree](http://readfree.me/）最常用的下书网站，常见epub、mobi、txt格式，每日有免费额度
+* [ReadFree](http://readfree.me/)最常用的下书网站，常见epub、mobi、txt格式，每日有免费额度
 
 * [MdEditor](http://www.mdeditor.com/)Markdown在线编辑器，可实时查看效果
 
