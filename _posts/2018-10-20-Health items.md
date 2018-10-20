@@ -11,7 +11,7 @@ author: PototaCries
 
 最近，各种作息饮食紊乱，体重上升，体质下滑，心里怕怕，要保养身体了
 
-![生活还是要继续](http://q.115.com/imgload?r=PDL4E8B64E68DCDE7A8C127F1CF8EF5F2F4&u=WqPiVd&s=yJSGlEUVgx1.-vYxVXXPTQ&e=5&st=0)
+![生活还是要继续](https://wx1.sinaimg.cn/mw690/747815a3gy1frqxhm5gk4j20c60c5goo.jpg)
 
 
 
