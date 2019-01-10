@@ -9,9 +9,9 @@ author: PototaCries
 * content
 {:toc}
 
-##### 古人云："生命在于运动"
-##### 长辈云："七分吃，三分动"
-##### 不管吃还是动，都要先从了解热量开始
+古人云："生命在于运动"  
+长辈云："七分吃，三分动"  
+不管吃还是动，都要先从了解热量开始  
 
 
 ![生活还是要继续](https://github.com/potato628/potato628.github.io/raw/master/images/20181020.jpg)
