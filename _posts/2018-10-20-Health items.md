@@ -9,7 +9,8 @@ author: PototaCries
 * content
 {:toc}
 
-"生命在于运动”——喵
+古人云："生命在于运动”
+长辈云："七分吃，三分动"
 
 ![生活还是要继续](https://github.com/potato628/potato628.github.io/raw/master/images/20181020.jpg)
 
