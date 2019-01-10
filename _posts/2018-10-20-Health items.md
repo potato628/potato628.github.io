@@ -9,7 +9,7 @@ author: PototaCries
 * content
 {:toc}
 
-最近，各种作息饮食紊乱，体重上升，体质下滑，心里怕怕，要保养身体了
+"生命在于运动”——喵
 
 ![生活还是要继续](https://github.com/potato628/potato628.github.io/raw/master/images/20181020.jpg)
 
